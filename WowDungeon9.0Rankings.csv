@@ -1,0 +1,241 @@
+Class,Spec,Rank,Covenant,Score
+Death Knight,Frost DK,1,Nightfae,2980
+Death Knight,Frost DK,2,Necrolord,2743
+Death Knight,Frost DK,3,Venthyr,2715
+Death Knight,Frost DK,4,Nightfae,2474
+Death Knight,Frost DK,5,Nightfae,2464.8
+Death Knight,Frost DK,6,Nightfae,2421.5
+Death Knight,Frost DK,7,Nightfae,2359
+Death Knight,Frost DK,8,Necrolord,2344
+Death Knight,Frost DK,9,Kyrian,2299.2
+Death Knight,Frost DK,10,Necrolord,2299.2
+Death Knight,Unholy,1,Kyrian,2958
+Death Knight,Unholy,2,Kyrian,2652
+Death Knight,Unholy,3,Nightfae,2647
+Death Knight,Unholy,4,Necrolord,2613
+Death Knight,Unholy,5,Nightfae,2609
+Death Knight,Unholy,6,Kyrian,2593
+Death Knight,Unholy,7,Kyrian,2584
+Death Knight,Unholy,8,Nightfae,2558
+Death Knight,Unholy,9,Nightfae,2554
+Death Knight,Unholy,10,Necrolord,2511
+Demon Hunter,Havoc,1,Venthyr,3354
+Demon Hunter,Havoc,2,Venthyr,2954
+Demon Hunter,Havoc,3,Venthyr,2906
+Demon Hunter,Havoc,4,Venthyr,2879
+Demon Hunter,Havoc,5,Venthyr,2845
+Demon Hunter,Havoc,6,Kyrian,2750
+Demon Hunter,Havoc,7,Venthyr,2647
+Demon Hunter,Havoc,8,Kyrian,2645
+Demon Hunter,Havoc,9,Venthyr,2641.7
+Demon Hunter,Havoc,10,Nightfae,2620.1
+Druid,Balance,1,Venthyr,3731
+Druid,Balance,2,Venthyr,3701
+Druid,Balance,3,Venthyr,3644
+Druid,Balance,4,Nightfae,3614
+Druid,Balance,5,Nightfae,3519
+Druid,Balance,6,Venthyr,3485
+Druid,Balance,7,Venthyr,3445
+Druid,Balance,8,Nightfae,3444.7
+Druid,Balance,9,Nightfae,3442
+Druid,Balance,10,Nightfae,3439.4
+Druid,Feral,1,Venthyr,2418
+Druid,Feral,2,Nightfae,2408
+Druid,Feral,3,Nightfae,2352
+Druid,Feral,4,Nightfae,2351
+Druid,Feral,5,Necrolord,2279
+Druid,Feral,6,Nightfae,2265
+Druid,Feral,7,Nightfae,2140
+Druid,Feral,8,Nightfae,2136
+Druid,Feral,9,Venthyr,2135.4
+Druid,Feral,10,Nightfae,2131
+Hunter,Beast Mastery,1,Nightfae,2877
+Hunter,Beast Mastery,2,Nightfae,2581
+Hunter,Beast Mastery,3,Kyrian,2499
+Hunter,Beast Mastery,4,Nightfae,2471
+Hunter,Beast Mastery,5,Nightfae,2430
+Hunter,Beast Mastery,6,Nightfae,2404
+Hunter,Beast Mastery,7,Nightfae,2373
+Hunter,Beast Mastery,8,Venthyr,2353
+Hunter,Beast Mastery,9,Nightfae,2322.8
+Hunter,Beast Mastery,10,Nightfae,2322.3
+Hunter,Marksmanship,1,Kyrian,3059
+Hunter,Marksmanship,2,Nightfae,2911
+Hunter,Marksmanship,3,Kyrian,2879
+Hunter,Marksmanship,4,Nightfae,2841
+Hunter,Marksmanship,5,Kyrian,2823
+Hunter,Marksmanship,6,Kyrian,2813
+Hunter,Marksmanship,7,Kyrian,2785
+Hunter,Marksmanship,8,Kyrian,2759
+Hunter,Marksmanship,9,Nightfae,2748
+Hunter,Marksmanship,10,Kyrian,2714
+Hunter,Survival,1,Kyrian,2606
+Hunter,Survival,2,Kyrian,2465
+Hunter,Survival,3,Kyrian,2354
+Hunter,Survival,4,Kyrian,2272.3
+Hunter,Survival,5,Nightfae,2272.2
+Hunter,Survival,6,Kyrian,2187
+Hunter,Survival,7,Kyrian,2173
+Hunter,Survival,8,Nightfae,2152
+Hunter,Survival,9,Nightfae,2143.7
+Hunter,Survival,10,Kyrian,2143
+Mage,Arcane,1,Nightfae,3247
+Mage,Arcane,2,Kyrian,2845
+Mage,Arcane,3,Venthyr,2712
+Mage,Arcane,4,Kyrian,2444.6
+Mage,Arcane,5,Nightfae,2413
+Mage,Arcane,6,Kyrian,2409
+Mage,Arcane,7,Kyrian,2361
+Mage,Arcane,8,Kyrian,2354
+Mage,Arcane,9,Nightfae,2348.4
+Mage,Arcane,10,Kyrian,2345
+Mage,Fire,1,Venthyr,3731.7
+Mage,Fire,2,Nightfae,3701
+Mage,Fire,3,Nightfae,3614
+Mage,Fire,4,Nightfae,3562.6
+Mage,Fire,5,Nightfae,3562.1
+Mage,Fire,6,Venthyr,3519
+Mage,Fire,7,Nightfae,3482.9
+Mage,Fire,8,Nightfae,3446.8
+Mage,Fire,9,Nightfae,3445.9
+Mage,Fire,10,Nightfae,3437
+Mage,Frost Mage,1,Nightfae,3242
+Mage,Frost Mage,2,Nightfae,2886
+Mage,Frost Mage,3,Nightfae,2882
+Mage,Frost Mage,4,Necrolord,2708
+Mage,Frost Mage,5,Necrolord,2675
+Mage,Frost Mage,6,Venthyr,2618
+Mage,Frost Mage,7,Nightfae,2617.4
+Mage,Frost Mage,8,Nightfae,2600.2
+Mage,Frost Mage,9,Necrolord,2599
+Mage,Frost Mage,10,Venthyr,2588.5
+Monk,Windwalker,1,Necrolord,3400.7
+Monk,Windwalker,2,Necrolord,3281
+Monk,Windwalker,3,Necrolord,3208
+Monk,Windwalker,4,Necrolord,3203.9
+Monk,Windwalker,5,Kyrian,3161
+Monk,Windwalker,6,Necrolord,3131
+Monk,Windwalker,7,Kyrian,3100
+Monk,Windwalker,8,Necrolord,3057
+Monk,Windwalker,9,Kyrian,3051
+Monk,Windwalker,10,Kyrian,3035.9
+Paladin,Retribution,1,Kyrian,2950
+Paladin,Retribution,2,Kyrian,2615
+Paladin,Retribution,3,Kyrian,2596.8
+Paladin,Retribution,4,Kyrian,2493
+Paladin,Retribution,5,Kyrian,2463
+Paladin,Retribution,6,Necrolord,2454
+Paladin,Retribution,7,Kyrian,2434.9
+Paladin,Retribution,8,Kyrian,2416
+Paladin,Retribution,9,Kyrian,2352
+Paladin,Retribution,10,Kyrian,2351.2
+Priest,Shadow,1,Necrolord,3282
+Priest,Shadow,2,Necrolord,3241
+Priest,Shadow,3,Nightfae,3212
+Priest,Shadow,4,Necrolord,3092
+Priest,Shadow,5,Nightfae,3001
+Priest,Shadow,6,Nightfae,2919
+Priest,Shadow,7,Necrolord,2880
+Priest,Shadow,8,Necrolord,2846
+Priest,Shadow,9,Necrolord,2814
+Priest,Shadow,10,Necrolord,2812
+Rouge,Assasination,1,Venthyr,3052
+Rouge,Assasination,2,Venthyr,2841
+Rouge,Assasination,3,Venthyr,2841
+Rouge,Assasination,4,Venthyr,2813.4
+Rouge,Assasination,5,Kyrian,2799
+Rouge,Assasination,6,Necrolord,2795.6
+Rouge,Assasination,7,Kyrian,2645
+Rouge,Assasination,8,Necrolord,2621
+Rouge,Assasination,9,Venthyr,2585
+Rouge,Assasination,10,Venthyr,2557.6
+Rouge,Outlaw,1,Venthyr,3731
+Rouge,Outlaw,2,Venthyr,3645
+Rouge,Outlaw,3,Venthyr,3614
+Rouge,Outlaw,4,Venthyr,3522
+Rouge,Outlaw,5,Venthyr,3519
+Rouge,Outlaw,6,Venthyr,3446
+Rouge,Outlaw,7,Venthyr,3445.9
+Rouge,Outlaw,8,Venthyr,3445.9
+Rouge,Outlaw,9,Venthyr,3445.1
+Rouge,Outlaw,10,Venthyr,3409.4
+Rouge,Subtlety,1,Venthyr,2532
+Rouge,Subtlety,2,Venthyr,2402
+Rouge,Subtlety,3,Venthyr,2381
+Rouge,Subtlety,4,Venthyr,2217
+Rouge,Subtlety,5,Venthyr,2195
+Rouge,Subtlety,6,Venthyr,2174
+Rouge,Subtlety,7,Venthyr,2163.7
+Rouge,Subtlety,8,Venthyr,2163.7
+Rouge,Subtlety,9,Nightfae,2109.6
+Rouge,Subtlety,10,Kyrian,2087
+Shaman,Elemental,1,Nightfae,3701.4
+Shaman,Elemental,2,Nightfae,3368.6
+Shaman,Elemental,3,Nightfae,3284.8
+Shaman,Elemental,4,Nightfae,3252.9
+Shaman,Elemental,5,Nightfae,3207.8
+Shaman,Elemental,6,Nightfae,3200.4
+Shaman,Elemental,7,Necrolord,3162.8
+Shaman,Elemental,8,Venthyr,3071.9
+Shaman,Elemental,9,Kyrian,3065
+Shaman,Elemental,10,Nightfae,3027
+Shaman,Enhancement,1,Necrolord,2880
+Shaman,Enhancement,2,Necrolord,2541
+Shaman,Enhancement,3,Nightfae,2528
+Shaman,Enhancement,4,Venthyr,2527
+Shaman,Enhancement,5,Necrolord,2497.9
+Shaman,Enhancement,6,Necrolord,2409.4
+Shaman,Enhancement,7,Kyrian,2383.4
+Shaman,Enhancement,8,Necrolord,2353.4
+Shaman,Enhancement,9,Nightfae,2352
+Shaman,Enhancement,10,Necrolord,2350
+Warlock,Affliction,1,Nightfae,3206
+Warlock,Affliction,2,Nightfae,2881
+Warlock,Affliction,3,Nightfae,2877.7
+Warlock,Affliction,4,Nightfae,2816.3
+Warlock,Affliction,5,Nightfae,2715.8
+Warlock,Affliction,6,Nightfae,2685
+Warlock,Affliction,7,Nightfae,2681
+Warlock,Affliction,8,Nightfae,2670
+Warlock,Affliction,9,Nightfae,2650.3
+Warlock,Affliction,10,Nightfae,2647.5
+Warlock,Demonology,1,Nightfae,2681.8
+Warlock,Demonology,2,Nightfae,2175
+Warlock,Demonology,3,Nightfae,2170
+Warlock,Demonology,4,Nightfae,2169.9
+Warlock,Demonology,5,Nightfae,2169.1
+Warlock,Demonology,6,Nightfae,2134
+Warlock,Demonology,7,Necrolord,2117.5
+Warlock,Demonology,8,Nightfae,2114
+Warlock,Demonology,9,Nightfae,2106.7
+Warlock,Demonology,10,Kyrian,2104
+Warlock,Destruction,1,Nightfae,2821
+Warlock,Destruction,2,Nightfae,2744.4
+Warlock,Destruction,3,Nightfae,2719
+Warlock,Destruction,4,Nightfae,2716
+Warlock,Destruction,5,Nightfae,2708
+Warlock,Destruction,6,Nightfae,2616
+Warlock,Destruction,7,Kyrian,2407
+Warlock,Destruction,8,Nightfae,2403.5
+Warlock,Destruction,9,Nightfae,2381
+Warlock,Destruction,10,Nightfae,2358
+Warrior,Arms,1,Kyrian,2950.5
+Warrior,Arms,2,Necrolord,2642
+Warrior,Arms,3,Kyrian,2195.6
+Warrior,Arms,4,Kyrian,2172.2
+Warrior,Arms,5,Kyrian,2114
+Warrior,Arms,6,Nightfae,2107.9
+Warrior,Arms,7,Kyrian,2097.5
+Warrior,Arms,8,Kyrian,2095.7
+Warrior,Arms,9,Kyrian,2086.3
+Warrior,Arms,10,Necrolord,2083.9
+Warrior,Fury,1,Kyrian,3437.6
+Warrior,Fury,2,Kyrian,3243.8
+Warrior,Fury,3,Kyrian,3051
+Warrior,Fury,4,Kyrian,2990
+Warrior,Fury,5,Kyrian,2953.9
+Warrior,Fury,6,Kyrian,2921
+Warrior,Fury,7,Nightfae,2911
+Warrior,Fury,8,Kyrian,2877
+Warrior,Fury,9,Kyrian,2802.6
+Warrior,Fury,10,Kyrian,2749.6
