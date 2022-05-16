@@ -14565,7 +14565,9 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>Every patch of World of Warcraft releases a new raid tier and season. Each expansion contains a range of dungeons that 5 people will go in and attempt to complete. There have been varying difficulties over the years, but more recently, it has been toned to normal, heroic, and mythic difficulties, with mythic containing a trial mode based on an affix and key system. Each dungeon group contains a tank, a healer, and 3 damage dealers. The focus of this document is to analyze damage dealer class performance and representation, and if possible, attempt to identify which types of classes have a history of success to determine which type of class to play going into the new expansion: Dragonflight.</p>
+<p><strong>World of Warcraft Mythic Dungeon Representation Analysis</strong></p>
+<p>Joseph C. Bernstein</p>
+<p>Every patch of World of Warcraft releases a new raid tier and season. Each expansion contains a range of dungeons that five people will enter and attempt to complete. There have been varying difficulties over the years, but more recently, it has been toned to normal, heroic, and mythic difficulties, with mythic containing a trial mode based on an affix and key system. Each dungeon group contains a tank, a healer, and 3 damage dealers. The focus of this document is to analyze damage dealer class performance and representation, and if possible, attempt to identify which types of classes have a history of success to determine which type of class to play going into the new WoW expansion: Dragonflight.</p>
 
 </div>
 </div>
@@ -14574,7 +14576,7 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-Collapser jp-InputCollapser jp-Cell-inputCollapser">
 </div>
 <div class="jp-InputArea jp-Cell-inputArea">
-<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[2]:</div>
+<div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[1]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="c1"># Imports for project</span>
@@ -14599,8 +14601,14 @@ body[data-format='mobile'] .jp-OutputArea-child .jp-OutputArea-output {
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<p>To start, let's look at the most recent season in the 9.2 patch of the expansion: Shadowlands. To do so, we have a number of options. Raider.io is a website that pulls from the warcraft api to compile comprehensive leader boards for raid and dungeon rankings. Warcraftlogs is another site that takes in user generate combat logs and completes statistical analysis on individual and class performance, but Warcraftlogs is primarily for raid encounters.</p>
-<p>From raider.io we can pull each classes' spec performers over the 9.2 mythic dungeon season patch. The Score associated with each player is calculated based on the highest level completion (with a bonus to competions within the time limit) across all dungeons in the expansion. Each dungeon carries a high score, and the total player score value is aggregated across all available dungeons. In short, a higher score means higher average difficulty dungeon competions. From this report, we can upload the information into a CSV that is available in the github repository supporting this webpage. For access to the original data, please visit <a href="https://raider.io/">https://raider.io/</a>.</p>
+<p>To start, let's look at the most recent season in the 9.2 patch of the expansion: Shadowlands. To do so, we have a number of options.</p>
+<ol>
+<li>Raider.io is a website that pulls from the warcraft api to compile comprehensive leaderboards for raid and dungeon rankings. </li>
+<li>Warcraftlogs is another site that takes in user generate combat logs and completes statistical analysis on individual and class performance, but Warcraftlogs is used primarily for raid encounters. </li>
+<li>Access the warcraft API directly from <a href="https://develop.battle.net/documentation/world-of-warcraft/game-data-apis">https://develop.battle.net/documentation/world-of-warcraft/game-data-apis</a>. For this third option, you will need a Blizzard Dev account, which is easy to make, and an OAuth Access token from the Dev account. After making an account from the provided website, enter the client ID and client secret string to enable access to the API. The API's provided contain access to individual player look ups, Mythic Plus dungeon leaderboards by realm, specific dungeon content, and a plethora of other specific information access.</li>
+</ol>
+<p>From raider.io we can pull each classes' spec performers over the 9.2 mythic dungeon season patch. The Score associated with each player is calculated based on the highest level completion (with a bonus to competions within the time limit) across all dungeons in the expansion. Each dungeon carries a high score, and the total player score value is aggregated across all available dungeons. In short, a higher score means higher average difficulty dungeon competions. From this report, we can upload the information into a CSV that is available in the github repository supporting this webpage.</p>
+<p>For access to the original data, please visit <a href="https://raider.io/">https://raider.io/</a> and <a href="https://raider.io/api#/">https://raider.io/api#/</a>, or use the blizzard Mythic Keystone Dungeon API. The blizzard API will return the leaderboards for each dungeon, including each player and class information. The same information is available on raider.io's leaderboard page, or mythic-plus/runs API lookup. With the lookup, one can search the top players manually, but the raider.io page is a quicker and cleaner alternative.</p>
 <p>To expand a bit more on the key system, after a dungeon is completed, a key to a random dungeon is dropped for all members. This key increases the difficulty of the next dungeon, scaling infinitely. Rewards are capped at +15, but the score reward is uncapped. Groups will try to push higher keys in an attempt to gain more score for the leaderboards.</p>
 <p>The data stored within the following table contains the top 10 players for each dps specialization for each class.</p>
 
